@@ -1,0 +1,27 @@
+{
+  "name": "05-template",
+  "version": "1.0.0",
+  "description": "<h2>Website Link</h2>\r <h1>https://ahmed-4902.github.io/template-5/</h1>",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-4902/Template-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahmed-4902/Template-5/issues"
+  },
+  "homepage": "https://github.com/Ahmed-4902/Template-5#readme",
+  "devDependencies": {
+    "sass": "^1.60.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "autoprefixer": "^10.4.14"
+  }
+}
